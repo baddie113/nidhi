@@ -1,4 +1,8 @@
-x="twitter"
+x = 10
+y = "what is your name"
 print(x)
-name=input("enter your name")
-print("hello",name)
+print(y)
+codingal = "Please enter"
+print(codingal)
+name = input("Enter your name: ")
+print("\nHello", name, "\nWelcome to Codingal")
